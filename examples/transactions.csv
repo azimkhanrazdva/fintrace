@@ -1,0 +1,6 @@
+transaction_id,source_account,destination_account,amount,currency,timestamp,transaction_type,channel
+tx_001,acc_A,acc_B,500000,KZT,2026-01-01T10:21:00Z,transfer,mobile
+tx_002,acc_B,acc_C,498500,KZT,2026-01-01T10:34:00+00:00,transfer,web
+tx_003,acc_A,acc_D,120000,KZT,2026-01-01T10:42:00Z,transfer,mobile
+tx_004,acc_A,acc_E,110000,KZT,2026-01-01T10:47:00Z,transfer,mobile
+tx_005,acc_C,acc_A,490000,KZT,2026-01-01T11:05:00Z,transfer,web
